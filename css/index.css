@@ -1,0 +1,70 @@
+nav {
+    background-color: #fff;
+    box-shadow: 10px 10px 10px -1px #ccc;
+    padding: 30px 0 22px;
+}
+
+.title-nav {
+    padding-top: 20px;
+}
+
+.title-nav h1{
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #f30087;
+}
+
+.title-nav p {
+    text-align: center;
+    font-size: 1.3rem;
+    color: #000;
+}
+
+.card {
+    border-radius: 12px;
+    border: none;
+    box-shadow: 2px 12px 20px 3px #ccc;
+}
+
+.card-info h1 {
+    font-size: 1.7rem;
+}
+.card-info p {
+    font-size: 1.1rem;
+}
+
+.card-actions form label {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+.card-actions form input {
+   height: 50px;
+}
+
+.button button {
+    width: 60%;
+    border: none;
+    background: #e63888;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: -2px 4px 11px 7px #c7c7c7;
+    color: #fff;
+}
+.button a {
+    width: 60%;
+    border: none;
+    background: #e63888;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: -2px 4px 11px 7px #c7c7c7;
+    color: #fff;
+}
+
+.resultado h1 {
+    font-size: 2rem;
+}
+
+.resultado h2 {
+    font-size: 1.4rem;
+    color: rgb(65, 65, 65);
+}
